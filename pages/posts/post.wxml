@@ -1,0 +1,66 @@
+<view>
+  <swiper indicator-dots='true' autoplay='true' interval='2000'>
+    <swiper-item>
+      <image src='/images/wx.png'></image>
+    </swiper-item>
+    <swiper-item>
+      <image src='/images/iqiyi.png'></image>
+    </swiper-item>
+    <swiper-item>
+      <image src='/images/vr.png'></image>
+    </swiper-item>
+  </swiper>
+  <view class="post-contaniner">
+    <view class="post-author-date">
+      <image class="post-author" src='/images/avatar/1.png'></image>
+      <text class="post-date">Nov 25 2016</text>
+    </view>
+    <text class="post-title">正是虾肥蟹壮时</text>
+    <image class='post-image' src='/images/post/crab.png'></image>
+    <text class='post-content'>
+    国庆临近，河北省唐山市南新道水产品市场洋溢着浓浓的节日气氛。张牙舞爪的海蟹、令人垂涎的河蟹、活蹦乱跳的对虾……数之不尽的水产品成了市场的主角，丰富着市民的餐桌。
+    </text>
+    <view class='post-like'>
+      <image class='post-like-image' src='../../images/icon/chat.png' ></image>
+      <text class='post-like-font'>92</text>
+      <image class='post-like-image' src='../../images/icon/view.png' ></image>
+      <text class='post-like-font'>65</text>
+    </view>
+  </view>
+
+  <view class="post-contaniner">
+    <view class="post-author-date">
+      <image class="post-author" src='/images/avatar/1.png'></image>
+      <text class="post-date">Nov 25 2016</text>
+    </view>
+    <text class="post-title">正是虾肥蟹壮时</text>
+    <image class='post-image' src='/images/post/crab.png'></image>
+    <text class='post-content'>
+    国庆临近，河北省唐山市南新道水产品市场洋溢着浓浓的节日气氛。张牙舞爪的海蟹、令人垂涎的河蟹、活蹦乱跳的对虾……数之不尽的水产品成了市场的主角，丰富着市民的餐桌。
+    </text>
+    <view class='post-like'>
+      <image class='post-like-image' src='../../images/icon/chat.png' ></image>
+      <text class='post-like-font'>92</text>
+      <image class='post-like-image' src='../../images/icon/view.png' ></image>
+      <text class='post-like-font'>65</text>
+    </view>
+  </view>
+
+  <view class="post-contaniner">
+    <view class="post-author-date">
+      <image class="post-author" src='/images/avatar/1.png'></image>
+      <text class="post-date">Nov 25 2016</text>
+    </view>
+    <text class="post-title">正是虾肥蟹壮时</text>
+    <image class='post-image' src='/images/post/crab.png'></image>
+    <text class='post-content'>
+    国庆临近，河北省唐山市南新道水产品市场洋溢着浓浓的节日气氛。张牙舞爪的海蟹、令人垂涎的河蟹、活蹦乱跳的对虾……数之不尽的水产品成了市场的主角，丰富着市民的餐桌。
+    </text>
+    <view class='post-like'>
+      <image class='post-like-image' src='../../images/icon/chat.png' ></image>
+      <text class='post-like-font'>92</text>
+      <image class='post-like-image' src='../../images/icon/view.png' ></image>
+      <text class='post-like-font'>65</text>
+    </view>
+  </view>
+</view>
