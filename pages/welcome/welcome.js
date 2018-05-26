@@ -1,5 +1,8 @@
 Page({
-  data: {
-    mode: 'scaleToFill',
-  }
+  onTap:function(event){
+    wx.redirectTo({
+      url: "../posts/post",
+    })
+  },
+  
 })
