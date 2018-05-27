@@ -1,6 +1,6 @@
 Page({
   onTap:function(event){
-    wx.redirectTo({
+    wx.navigateTo({
       url: "../posts/post",
     })
   },
