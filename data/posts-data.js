@@ -34,9 +34,9 @@ var local_database = [
     collection: "96",
     postId: 1,
     music: {
-      url: "http://ws.stream.qqmusic.qq.com/C100002I8eGJ28BI17.m4a?fromtag=38",
-      title: "谭咏麟：朋友",
-      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000004eGsCN3SUheO.jpg?max_age=2592000"
+      url: "http://m10.music.126.net/20180527233803/5e48a7eb93887ebeab311e733cb19dcd/ymusic/4b3a/eb1d/c9ca/8e192f0aba28027b759cad9d20bff7a7.mp3",
+      title: "今晚的月亮",
+      coverImg: "http://p1.music.126.net/Sgk6urNTww3zT2ymXsyPBg==/109951163306930710.jpg?param=130y130"
     }
   },
   {
@@ -54,9 +54,9 @@ var local_database = [
     avatar: "/images/avatar/3.png",
     postId: 2,
     music: {
-      url: "http://ws.stream.qqmusic.qq.com/C100003507bR0gDKBm.m4a?fromtag=38",
-      title: "女儿情-万晓利",
-      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000001TEc6V0kjpVC.jpg?max_age=2592000"
+      url: "http://m10.music.126.net/20180527234148/6aa58e3fee8bef52a0349e2815a79364/ymusic/392b/2bb3/e35e/483796f85180a25dc3dbf46aa815fda9.mp3",
+      title: "雨巷",
+      coverImg: "http://p1.music.126.net/lkiZgH815GVgheThLgG_Gg==/109951163285181607.jpg?param=130y130"
     }
   },
   {
@@ -74,9 +74,9 @@ var local_database = [
     avatar: "/images/avatar/5.png",
     postId: 3,
     music: {
-      url: "http://ws.stream.qqmusic.qq.com/C100002mWVx72p8Ugp.m4a?fromtag=38",
-      title: "恋恋风尘-老狼",
-      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000001VaXQX1Z1Imq.jpg?max_age=2592000",
+      url: "http://m10.music.126.net/20180527234418/4d75e35e212cbb40c76ee6296f2bc762/ymusic/1073/061c/d374/8a8c3cb2286298609deffef29a6c7883.mp3",
+      title: "声声慢",
+      coverImg: "http://p1.music.126.net/qMiFV8V6zlOSS9D4FLwFMw==/109951162807427178.jpg?param=130y130",
     }
   },
   {
@@ -94,9 +94,9 @@ var local_database = [
     avatar: "../../../images/avatar/3.png",
     postId: 4,
     music: {
-      url: "http://ws.stream.qqmusic.qq.com/C100000Zn0vS4fKKo8.m4a?fromtag=38",
-      title: "沉默是金-张国荣",
-      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000003at0mJ2YrR2H.jpg?max_age=2592000"
+      url: "http://music.163.com/song/media/outer/url?id=468252710.mp3",
+      title: "含笑有白鹭",
+      coverImg: "http://p1.music.126.net/qMiFV8V6zlOSS9D4FLwFMw==/109951162807427178.jpg?param=130y130"
     }
   },
   {
@@ -115,9 +115,9 @@ var local_database = [
     avatar: "../../../images/avatar/5.png",
     postId: 5,
     music: {
-      url: "http://ws.stream.qqmusic.qq.com/C100002I8eGJ28BI17.m4a?fromtag=38",
-      title: "朋友-谭咏麟",
-      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000004eGsCN3SUheO.jpg?max_age=2592000"
+      url: "http://music.163.com/song/media/outer/url?id=450289445.mp3",
+      title: "何珍妮",
+      coverImg: "http://p1.music.126.net/qMiFV8V6zlOSS9D4FLwFMw==/109951162807427178.jpg?param=130y130"
     }
   }
 ];
