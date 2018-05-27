@@ -12,7 +12,12 @@ var local_database = [
     content: "国庆临近，河北省唐山市南新道水产品市场洋溢着浓浓的节日气氛。张牙舞爪的海蟹、令人垂涎的河蟹、活蹦乱跳的对虾……数之不尽的水产品成了市场的主角，丰富着市民的餐桌。",
     reading: "92",
     collection: "56",
-    postId:0
+    postId:0,
+    music: {
+      url: "http://ws.stream.qqmusic.qq.com/M500001VfvsJ21xFqb.mp3?guid=ffffffff82def4af4b12b3cd9337d5e7&uin=346897220&vkey=6292F51E1E384E061FF02C31F716658E5C81F5594D561F2E88B854E81CAAB7806D5E4F103E55D33C16F3FAC506D1AB172DE8600B37E43FAD&fromtag=46",
+      title: "许巍：此时此刻",
+      coverImg: "http://y.gtimg.cn/music/photo_new/T002R300x300M000003rsKF44GyaSk.jpg?max_age=2592000"
+    }
   },
   {
     date: "Much 27 2018",
@@ -27,7 +32,12 @@ var local_database = [
     content: "《比利·林恩的中场战事》是由美国索尼电影娱乐公司发行，由李安执导，乔·阿尔文、克里斯汀·斯图尔特、克里斯·塔克、加内特·赫德兰联合主演剧情片。",
     reading: "87",
     collection: "96",
-    postId: 1
+    postId: 1,
+    music: {
+      url: "http://ws.stream.qqmusic.qq.com/C100002I8eGJ28BI17.m4a?fromtag=38",
+      title: "谭咏麟：朋友",
+      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000004eGsCN3SUheO.jpg?max_age=2592000"
+    }
   },
   {
     title: "当我们在谈论经济学时，我们在谈论什么?",
@@ -42,7 +52,12 @@ var local_database = [
     author: "知乎",
     date: "Nov 12 2016",
     avatar: "/images/avatar/3.png",
-    postId: 2
+    postId: 2,
+    music: {
+      url: "http://ws.stream.qqmusic.qq.com/C100003507bR0gDKBm.m4a?fromtag=38",
+      title: "女儿情-万晓利",
+      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000001TEc6V0kjpVC.jpg?max_age=2592000"
+    }
   },
   {
     title: "微信·小程序开发工具安装指南",
@@ -57,7 +72,12 @@ var local_database = [
     author: "猫是猫的猫",
     date: "Nov 20 2016",
     avatar: "/images/avatar/5.png",
-    postId: 3
+    postId: 3,
+    music: {
+      url: "http://ws.stream.qqmusic.qq.com/C100002mWVx72p8Ugp.m4a?fromtag=38",
+      title: "恋恋风尘-老狼",
+      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000001VaXQX1Z1Imq.jpg?max_age=2592000",
+    }
   },
   {
     title: "从视觉到触觉 这款VR手套能给你真实触感",
@@ -72,7 +92,12 @@ var local_database = [
     author: "深白色",
     date: "Nov 20 2016",
     avatar: "../../../images/avatar/3.png",
-    postId: 4
+    postId: 4,
+    music: {
+      url: "http://ws.stream.qqmusic.qq.com/C100000Zn0vS4fKKo8.m4a?fromtag=38",
+      title: "沉默是金-张国荣",
+      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000003at0mJ2YrR2H.jpg?max_age=2592000"
+    }
   },
   {
     title: "爱奇艺创维开展战略合作，合力布局开放娱乐生态",
@@ -88,8 +113,12 @@ var local_database = [
     author: "深白色",
     date: "Nov 20 2016",
     avatar: "../../../images/avatar/5.png",
-    postId: 5
-
+    postId: 5,
+    music: {
+      url: "http://ws.stream.qqmusic.qq.com/C100002I8eGJ28BI17.m4a?fromtag=38",
+      title: "朋友-谭咏麟",
+      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000004eGsCN3SUheO.jpg?max_age=2592000"
+    }
   }
 ];
 
