@@ -1,5 +1,5 @@
 function covertToStarsArray (stars){
-  var num = start.toString().substring(0,1);
+  var num = stars.toString().substring(0,1);
   var array = [];
   for (var i=1; i<=5; i++){
     if(i <= num){

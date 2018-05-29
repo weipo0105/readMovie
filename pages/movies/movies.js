@@ -43,7 +43,7 @@ Page({
       }
 
       var temp = {
-        //stars: util.covertToStarsArray(subject.rating.stars),
+        stars: util.covertToStarsArray(subject.rating.stars),
         title:title,
         average:subject.rating.average,
         coverageUrl:subject.images.large,
