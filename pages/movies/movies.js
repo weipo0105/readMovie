@@ -37,12 +37,13 @@ Page({
     for (var idx in moviesDouban.subjects){
       var subject = moviesDouban.subjects[idx];
       var title = subject.title;
+      
       if(title.length >= 6){
         title=title.substring(0,6)+"...";
       }
 
       var temp = {
-        stars: util.covertToStarsArray(subject.rating.stars),
+        //stars: util.covertToStarsArray(subject.rating.stars),
         title:title,
         average:subject.rating.average,
         coverageUrl:subject.images.large,
